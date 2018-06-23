@@ -1,3 +1,8 @@
 1. Barcode La Salle ID
 	- Attendance
 	- Security
+2. Accident Sensor
+	- GPS
+	- GSM
+	- Force sensor
+3.
