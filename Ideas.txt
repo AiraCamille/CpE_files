@@ -1,8 +1,7 @@
-1. Barcode La Salle ID
-	- Attendance
+1. Development of Cafeteria Payment Scheme using RFID with Cloud and App based monitoring for USLS-IS
+	- Payment
 	- Security
-2. Accident Sensor
-	- GPS
-	- GSM
-	- Force sensor
-3.
+2. Development of Poultry Farm with Egg Quality Checking and automated feeding with Business Analytics for Local Producers
+	- Egg Sorter
+	- Chicken Feeder 
+	- Food sensor
