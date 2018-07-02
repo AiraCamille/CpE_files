@@ -16,5 +16,28 @@ Limitation
 
 This project is a payment system using RFID. It is built with a cloud system where transactions and file storage are present. An app
 for parents so that they can track the things they buy and  limit the child's expenses during the day. RFID can be loaded anytime,
- if you lost it you can have it cancelled and a temporary card will be given to you with your credit in it.  
+ if you lost it you can have it cancelled and a temporary card will be given to you with your credit in it. 
 
+
+
+
+
+System
+may product list si vendor na gina save sa database
+store setup is a barcode scanner tapos may computer = na ga connect sa network for passing of info to the cloud 
+transaction method is scan the barcode of the product the student wants to buy then the student tap the RFID card to pay transaction complete then send to the cloud.
+the transaction of the student will reflect sa app ni parent ya.
+the admin monitors all the transaction of the vendor
+
+
+
+
+
+
+
+
+
+Scope and Limitations
+This project is a payment system using RFID. It is built with a cloud system where transactions and file storage are present. An app is provided to the parents so that they can track the things they buy and  limit the child's expenses during the day. RFID can be loaded anytime, loading is done in a kiosk machine. Loading machine does not dispense cash and is limited only for paper bills, therefore the exact amount must be deposited.  If you lost it you can have it cancelled and a temporary card will be given to you with your credit in it and obliged to return the temporary card after new card is available. 
+
+Every store has a product list of all the products they sell. Product list are stored in the cloud and monitored by the Admin. The store setup is a barcode scanner and a computer a typical cashier set up. Transaction is first the vendor scan the product the student wants to buy then the student taps to end the transaction. transactions are passed to the cloud.
