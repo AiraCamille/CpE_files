@@ -1,3 +1,10 @@
 Please copy and paste references here.
 
+Background of the Study:
+
 http://www.globalissues.org/article/237/children-as-consumers
+
+Definition of Terms:
+
+Roussos G. (2008) What is RFID. In: Networked RFID. Computer Communications and Networks. Springer, London
+	*link: https://link.springer.com/chapter/10.1007%2F978-1-84800-153-4_1
