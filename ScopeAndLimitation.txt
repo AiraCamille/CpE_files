@@ -1,0 +1,20 @@
+
+TITLE: The Development of Smart Payment Technology using RFID with Cloud and App-based monitoring for USLS-IS Cafeteria
+
+Scope
+1. RFID cards - activation, loading, cancellation ,blocking of card.
+2. Payment system
+3. cloud for file storage 
+4. App for parents that will monitor their children 
+*********IF LOST TEMPORARY CARD WILL PROVIDED LOGIC IS TRANSFER STUDENT DATA TO THE TEMPORARY CARD.*******************************
+
+Limitation
+1. If the card was stolen and used we cant refund the money. reimbursement is only available
+   after the blocking or cancellation of card.
+
+
+
+This project is a payment system using RFID. It is built with a cloud system where transactions and file storage are present. An app
+for parents so that they can track the things they buy and  limit the child's expenses during the day. RFID can be loaded anytime,
+ if you lost it you can have it cancelled and a temporary card will be given to you with your credit in it.  
+
