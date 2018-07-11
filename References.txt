@@ -8,3 +8,14 @@ Definition of Terms:
 
 Roussos G. (2008) What is RFID. In: Networked RFID. Computer Communications and Networks. Springer, London
 	*link: https://link.springer.com/chapter/10.1007%2F978-1-84800-153-4_1
+
+Cloud Computing
+https://www.usenix.org/legacy/event/sec11/tech/full_papers/Mulazzani6-24-11.pdf
+Mobile Application
+http://www.ccsenet.org/journal/index.php/ijms/article/viewFile/24130/15737
+Parent
+https://www.slideshare.net/F3Law/spring-2014-special-education-in-the-modern-age-parent-participation-in-the-iep
+Student
+http://www.differencebetween.info/difference-between-student-and-scholar
+Vendor
+https://whatis.techtarget.com/definition/vendor
