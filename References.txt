@@ -14,3 +14,9 @@ Mobile Application
 http://www.ccsenet.org/journal/index.php/ijms/article/viewFile/24130/15737
 Vendor
 https://whatis.techtarget.com/definition/vendor
+PIC
+http://www.technologystudent.com/pics/picgen1.html
+Wifi Module
+https://www.electroschematics.com/11276/esp8266-datasheet/
+NFC
+http://www.centrenational-rfid.com/how-nfc-works-article-133-gb-ruid-202.html
