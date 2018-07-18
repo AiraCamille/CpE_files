@@ -6,8 +6,7 @@ http://www.globalissues.org/article/237/children-as-consumers
 
 Definition of Terms:
 RFID
-Roussos G. (2008) What is RFID. In: Networked RFID. Computer Communications and Networks. Springer, London
-	*link: https://link.springer.com/chapter/10.1007%2F978-1-84800-153-4_1
+https://www.atlantis-press.com/php/download_paper.php?id=25837830
 Cloud Computing
 https://www.sciencedirect.com/science/article/pii/S0306437914001288
 Mobile Application
