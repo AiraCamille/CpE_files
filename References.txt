@@ -20,3 +20,9 @@ Wifi Module
 https://www.electroschematics.com/11276/esp8266-datasheet/
 NFC
 http://www.centrenational-rfid.com/how-nfc-works-article-133-gb-ruid-202.html
+
+RRL:
+D. Herron et al, 2015. Systems and Methods for Individualized Customer Retail Services Using RFID Wristbands. Retrieved from: https://patents.google.com/patent/US20150083803A1/en
+M. Purwaningsih et al, 2013. Micropayment Design System Using Near Field Communication Technology (NFC). Retrieved from: http://repository.perbanas.id/xmlui/handle/123456789/1341
+J. Orozco et al, 2014. Mobile Application For Monitoring and Managing Transactions Associated with Accounts Maintained at Financial Institutions Retrieved from: https://patents.google.com/patent/US20140046830A1/en
+M. J. Avram, 2014. Advantages and Challenges of Adopting Cloud Computing from an Enterprise Perspective Retrieved from: https://www.sciencedirect.com/science/article/pii/S221201731300710X
